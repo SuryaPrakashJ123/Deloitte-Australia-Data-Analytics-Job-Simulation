@@ -1,5 +1,5 @@
 
-# Deloitte Australia Data Analytics Job Simulation – May 2025
+# Deloitte Australia Data Analytics Job Simulation – May 2025.
 
 This project was completed as part of the Deloitte Forage Virtual Job Simulation. It includes two core tasks using Tableau and Excel:
 
